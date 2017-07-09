@@ -15,8 +15,8 @@ To run the code for the Euclidian Distance you should run the following commands
 > javac *.java
 > java KMeansAnalysis <value of k> test_data.txt<or any other path> output.txt <any path for output file or format>
 
-==> As I have run this code so many times using different value of k, I have included top 5 from it.
-==> They are mentioned below one by one.
+* As I have run this code so many times using different value of k, I have included top 5 from it.
+* They are mentioned below one by one.
 
 ================================================================================
 
